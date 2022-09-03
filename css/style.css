@@ -10,3 +10,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(131, 189, 170);
+}
